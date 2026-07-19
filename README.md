@@ -57,7 +57,7 @@ Want the other 5 profiles, the task templates, all 4 MCP configs, and the workfl
 
 ## Get the full kit
 
-**[→ Download the complete Claude MCP Starter Kit on Payhip](PAYHIP_LINK_PLACEHOLDER)**
+**[→ Download the complete Claude MCP Starter Kit on Payhip](https://payhip.com/b/MlHb0)**
 
 One-time purchase. Instant download. Free lifetime updates as new MCP servers and patterns are added.
 
