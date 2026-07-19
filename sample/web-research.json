@@ -1,0 +1,19 @@
+{
+  "_comment": "FREE SAMPLE from the Claude MCP Starter Kit. Highest-ROI capability: web search + scraping. Firecrawl handles sites with bot protection that plain browser automation gets blocked by. Tavily is a fast search-first alternative. You can run both. Get free API keys at firecrawl.dev and tavily.com. The full kit includes github, browser, and filesystem configs plus the prompt and workflow layers.",
+  "mcpServers": {
+    "firecrawl": {
+      "command": "npx",
+      "args": ["-y", "firecrawl-mcp"],
+      "env": {
+        "FIRECRAWL_API_KEY": "fc-YOUR-KEY-HERE"
+      }
+    },
+    "tavily": {
+      "command": "npx",
+      "args": ["-y", "tavily-mcp"],
+      "env": {
+        "TAVILY_API_KEY": "tvly-YOUR-KEY-HERE"
+      }
+    }
+  }
+}
