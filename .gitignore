@@ -1,0 +1,17 @@
+# Python (in case scripts/examples are added later)
+__pycache__/
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+.pytest_cache/
+
+# Secrets / env
+.env
+
+# Editors / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store

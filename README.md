@@ -51,6 +51,27 @@ Close loops. A task is not done when you have a plan — it is done when the
 work is verified. Run the build. Check the output. Read the result back.
 ```
 
+### Quickstart: use the free sample right now
+
+`sample/web-research.json` is a real, working MCP config — not a teaser. To use it:
+
+1. Get a free API key from [firecrawl.dev](https://firecrawl.dev) and/or [tavily.com](https://tavily.com).
+2. Clone this repo (or just copy the file):
+   ```bash
+   git clone https://github.com/M-Ashrey/claude-mcp-starter-kit
+   cd claude-mcp-starter-kit
+   ```
+3. Merge the contents of `sample/web-research.json` into your Claude Desktop
+   config (`claude_desktop_config.json` — on macOS:
+   `~/Library/Application Support/Claude/claude_desktop_config.json`; on
+   Windows: `%APPDATA%\Claude\claude_desktop_config.json`), replacing
+   `fc-YOUR-KEY-HERE` / `tvly-YOUR-KEY-HERE` with your real keys.
+4. Restart Claude Desktop. Ask Claude to research something on the web —
+   it now has real search/scrape tools instead of relying on guesswork.
+
+The system prompt above is also free to use as-is: paste it into Claude's
+custom instructions / system prompt field to make it act instead of ask.
+
 Want the other 5 profiles, the task templates, all 4 MCP configs, and the workflow playbooks?
 
 ---
@@ -68,6 +89,16 @@ One-time purchase. Instant download. Free lifetime updates as new MCP servers an
 Built and maintained by [@M-Ashrey](https://github.com/M-Ashrey). Every file in the full kit is dogfooded — the workflows here are the ones actually used to run an autonomous Claude agent day to day.
 
 If this repo helped, a ⭐ genuinely helps others find it.
+
+Found a broken link, a bug in the free sample, or want to report something?
+Open an [issue](https://github.com/M-Ashrey/claude-mcp-starter-kit/issues). See
+[SECURITY.md](SECURITY.md) to report a security concern privately.
+
+## License
+
+The contents of *this* repo (README, prompt text shown above, and
+`sample/web-research.json`) are MIT licensed — see [LICENSE](LICENSE). The
+extended paid kit sold on Payhip is a separate, commercial product.
 
 ---
 
