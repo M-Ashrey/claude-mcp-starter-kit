@@ -94,6 +94,10 @@ Found a broken link, a bug in the free sample, or want to report something?
 Open an [issue](https://github.com/M-Ashrey/claude-mcp-starter-kit/issues). See
 [SECURITY.md](SECURITY.md) to report a security concern privately.
 
+## Support this work
+
+The free sample and this repo stay free and maintained. If they help you, you can support the work through [GitHub Sponsors](https://github.com/sponsors/M-Ashrey) or [Ko-fi](https://ko-fi.com/ashrey122).
+
 ## License
 
 The contents of *this* repo (README, prompt text shown above, and
